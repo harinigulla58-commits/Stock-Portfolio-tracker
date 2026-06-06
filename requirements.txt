@@ -1,0 +1,18 @@
+# Stock Portfolio Tracker Requirements
+#
+# This project was developed using Python 3.x
+#
+# Built-in modules used:
+# - csv
+# - os (optional)
+# - file handling
+#
+# No external packages are required to run this project.
+#
+# Recommended Python Version:
+# Python >= 3.10
+
+If you later decide to use Pandas and Matplotlib for CSV handling and charts, then use:
+
+pandas>=2.0.0
+matplotlib>=3.7.0
